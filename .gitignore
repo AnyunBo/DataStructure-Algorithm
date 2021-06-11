@@ -1,0 +1,13 @@
+*.iml
+.gradle
+.idea
+ /target
+ /.idea
+ /out
+ #编译文件
+ *.class
+*.iws
+*.ipr
+*.lock
+rebel.xml
+*.log
